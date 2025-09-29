@@ -1,5 +1,4 @@
 # Daily-Improvement
 
-This is a simple repo where I am going to display my daily sharpening of my coding, math, or specialized skills.
-
+This is a simple repo where I do unstructured coding, math, or technical work.
 ---
